@@ -1,7 +1,8 @@
 ---
+
 title: Contract creation process
 version: 0.1
-author: Peter Brownell
+
 ---
 # Contract creation process
 
