@@ -4,7 +4,7 @@ author: Peter Brownell
 ------------------------------------
 # Contract creation process 
 
-*Actors*
+## Actors
 
 - Proposer : The person proposing the change
 - Peers    : Any other stakeholders
@@ -12,7 +12,7 @@ author: Peter Brownell
 - Business Reviewers  : A set of designated individuals responsible for business decision making
 - Platform owners     : A set of designated individuals responsible the platform decisions
 
-* Process *
+## Process
 
 - Proposer forks the contract repository
 - Proposer copies the *contract template* and names the new file according to the convention
